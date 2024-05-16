@@ -1,0 +1,12 @@
+Châtelet-Les Halles,Châtelet
+Châtelet,Châtelet-Les Halles
+Les Halles,Châtelet-Les Halles
+Châtelet-Les Halles,Les Halles
+La Chapelle,Gare du Nord
+Gare du Nord,La Chapelle
+Saint-Lazare,Saint-Augustin
+Saint-Augustin,Saint-Lazare
+Havre-Caumartin,Auber
+Auber,Havre-Caumartin
+Opéra,Auber
+Auber,Opéra
